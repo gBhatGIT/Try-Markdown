@@ -1,5 +1,5 @@
 # Try-Markdown
- Experimenting with markdown documents. **bold** or *italic* 
+ Experimenting with markdown documents. You can make text bold by double asterisk **bold** or single asterisk for italics *italic* 
 
  You can identify a short in-line code snippet by enclosing it in a single-back-tic characters, like so: `git init`.
 
